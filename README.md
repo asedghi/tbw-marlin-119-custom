@@ -6,7 +6,8 @@ Characteristics:
 - Using **TMC2208** for **X**, **Y** and **Z** axis in silent chop
 - BLTouch is enabled
 - Optimized bed leveling procedure - 9 points for leveling compared to standard 12 points
-
+- S-curve acceleration enabled
+- Updated bed boundaries: **Xmax=340**, **Ymax=220**, **Zmax=240**
 
 ### License
 
