@@ -3,7 +3,7 @@
 This is a custom modification of [**Marlin**](http://marlinfw.org/) [**1.1.9**](https://github.com/MarlinFirmware/Marlin/archive/1.1.x.zip) for Tevo Black Widow 3D printers.
 
 Characteristics:
-- Using **TMC2208** for **X**, **Y** and **Z** axis in silent chop
+- Using **TMC2130** for **X**, **Y** and **Z** using spi
 - BLTouch is enabled
 - Optimized bed leveling procedure - 9 points for leveling compared to standard 12 points
 - S-curve acceleration enabled
